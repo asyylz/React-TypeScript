@@ -21,7 +21,6 @@
         <h2>Description</h2>
         <p>This repository serves as a learning resource for understanding TypeScript with React.</p>
     </section>
-
     <section id="features">
         <h2>Features</h2>
         <p>Key features covered in this repository:</p>
@@ -70,7 +69,6 @@
             <li><a href="https://redux.js.org/introduction/getting-started">Redux Documentation</a></li>
         </ul>
     </section>
-
     <section id="contributing">
         <h2>Contributing</h2>
         <p>Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please
