@@ -2,6 +2,7 @@ import React from 'react';
 import TodoItem from './TodoItem';
 import Todo from '../models/todos';
 import classes from './Todos.module.css';
+
 const Todos: React.FC<{ items: Todo[]; onRemoveTodo: (id: string) => void }> = (
   props
 ) => {
