@@ -14,7 +14,6 @@
             <li><a href="#notes">Notes</a></li>
             <li><a href="#contributing">Contributing</a></li>
             <li><a href="#license">License</a></li>
-            <li><a href="#contact">Contact</a></li>
         </ul>
     </section>
     <section id="description">
@@ -53,7 +52,6 @@
         <ul>
             <li>Gain a solid understanding of TypeScript syntax and features.</li>
             <li>Understand how to integrate TypeScript with React applications.</li>
-            <li>Learn best practices for managing state with Redux Toolkit.</li>
             <li>Develop the ability to create scalable and maintainable codebases.</li>
         </ul>
         <p>Reach the outcome site <a href="#">here</a>.</p>
@@ -66,7 +64,6 @@
         <ul>
             <li><a href="https://www.typescriptlang.org/docs/">TypeScript Documentation</a></li>
             <li><a href="https://reactjs.org/docs/getting-started.html">React Documentation</a></li>
-            <li><a href="https://redux.js.org/introduction/getting-started">Redux Documentation</a></li>
         </ul>
     </section>
     <section id="contributing">
@@ -77,13 +74,5 @@
     <section id="license">
         <h2>License</h2>
         <p>This project is licensed under the MIT License.</p>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>If you have any questions or feedback, feel free to reach out:</p>
-        <ul>
-            <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-            <li>GitHub: <a href="https://github.com/your-username">your-username</a></li>
-        </ul>
     </section>
 </body>
