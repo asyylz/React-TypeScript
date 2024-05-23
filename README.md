@@ -4,7 +4,6 @@
         <p>Welcome to the React-TypeScript Learning Repository! This repository is created to learn basic and advanced
             concepts of TypeScript in the context of React applications.</p>
     </header>
-    
     <section id="table-of-contents">
         <h2>Table of Contents</h2>
         <ul>
@@ -18,7 +17,6 @@
             <li><a href="#contact">Contact</a></li>
         </ul>
     </section>
-
     <section id="description">
         <h2>Description</h2>
         <p>This repository serves as a learning resource for understanding TypeScript with React.</p>
@@ -35,7 +33,6 @@
             <li>Enums and generics</li>
         </ul>
     </section>
-
     <section id="getting-started">
         <h2>Getting Started</h2>
         <p>To get started with the repository, follow these steps:</p>
@@ -51,7 +48,6 @@
             <code>npm start</code>
         </ol>
     </section>
-
     <section id="outcome">
         <h2>Outcome</h2>
         <p>By completing this repository, you will:</p>
@@ -63,7 +59,6 @@
         </ul>
         <p>Reach the outcome site <a href="#">here</a>.</p>
     </section>
-
     <section id="notes">
         <h2>Notes</h2>
         <p>This project was created as part of an educational course on Udemy and is intended for learning purposes only.
@@ -81,12 +76,10 @@
         <p>Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please
             feel free to open an issue or submit a pull request.</p>
     </section>
-
     <section id="license">
         <h2>License</h2>
         <p>This project is licensed under the MIT License.</p>
     </section>
-
     <section id="contact">
         <h2>Contact</h2>
         <p>If you have any questions or feedback, feel free to reach out:</p>
